@@ -50,3 +50,9 @@ pubspec.lock
 ios/Podfile
 ios/Flutter/Debug.xcconfig
 ios/Flutter/Release.xcconfig
+ios/Podfile.lock
+ios/Flutter/AppFrameworkInfo.plist
+ios/Runner/Info.plist
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+ios/Runner.xcworkspace/contents.xcworkspacedata
